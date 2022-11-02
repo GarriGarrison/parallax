@@ -1,2 +1,2 @@
 # parallax
-сайт с paralax эффектом
+сайт с parallax эффектом
